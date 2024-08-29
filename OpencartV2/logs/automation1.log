@@ -1,0 +1,19 @@
+12:06:31.310 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - ***Providing Customer Details***
+12:06:31.507 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationTest - ***Clicked on Register Link***
+12:06:31.507 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationTest - ***Providing Customer Details***
+12:06:32.168 [TestNG-tests-3] INFO  testCases.TC001_AccountRegisterationTest - ******** Starting TC001_AccountRegistrationTest *******
+12:06:32.256 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - *** Validating Expected Message ***
+12:06:32.288 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - ***Finished Test ***
+12:06:32.315 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationTest - *** Validating Expected Message ***
+12:06:32.341 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationTest - ***Finished Test ***
+12:06:32.407 [TestNG-tests-3] INFO  testCases.TC001_AccountRegisterationTest - ***Clicked on MyAccount Link***
+12:06:32.636 [TestNG-tests-3] INFO  testCases.TC001_AccountRegisterationTest - ***Clicked on Register Link***
+12:06:32.636 [TestNG-tests-3] INFO  testCases.TC001_AccountRegisterationTest - ***Providing Customer Details***
+12:06:33.359 [TestNG-tests-3] INFO  testCases.TC001_AccountRegisterationTest - *** Validating Expected Message ***
+12:06:33.371 [TestNG-tests-3] INFO  testCases.TC001_AccountRegisterationTest - ***Finished Test ***
+12:22:01.701 [main] INFO  testCases.TC001_AccountRegisterationTest - ******** Starting TC001_AccountRegistrationTest *******
+12:22:01.785 [main] INFO  testCases.TC001_AccountRegisterationTest - ***Clicked on MyAccount Link***
+12:22:02.072 [main] INFO  testCases.TC001_AccountRegisterationTest - ***Clicked on Register Link***
+12:22:02.072 [main] INFO  testCases.TC001_AccountRegisterationTest - ***Providing Customer Details***
+12:22:02.867 [main] INFO  testCases.TC001_AccountRegisterationTest - *** Validating Expected Message ***
+12:22:02.895 [main] INFO  testCases.TC001_AccountRegisterationTest - ***Finished Test ***
